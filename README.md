@@ -1,1 +1,1 @@
-# Medetrain_AI
+# Meditrain_AI
